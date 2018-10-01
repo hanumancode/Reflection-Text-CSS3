@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(#1ca3ec, #0f5e9c);
+    height: 100vh;
+    font-family: sans-serif;
+}
